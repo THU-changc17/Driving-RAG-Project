@@ -1,5 +1,5 @@
 # Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications
-A driving scenario data framework, which contains aligned embedding, efficient vector search, and retrievals reorganization, can provide strong support for **RAG** applications.
+A driving scenario data framework, which contains **aligned embedding**, **efficient vector search**, and **retrievals reorganization**, can provide strong support for **RAG** applications.
 
 ## Video
 <video controls style="width: 100%; height: auto;">
@@ -7,7 +7,7 @@ A driving scenario data framework, which contains aligned embedding, efficient v
 </video>
 
 ## Abstract
-In this paper, we introduce the Driving-RAG frame-work to address the challenges of efficient scenario data embedding, search, and applications for RAG systems. Our embedding model aligns fundamental scenario information and scenario distance metrics in the vector space. 
+In this paper, we introduce the Driving-RAG framework to address the challenges of efficient scenario data embedding, search, and applications for RAG systems. Our embedding model aligns fundamental scenario information and scenario distance metrics in the vector space. 
 The typical scenario sampling method combined with hierarchical navigable small world can perform efficient scenario vector search to achieve high efficiency without sacrificing accuracy. 
 In addition, the reorganization mechanism by graph knowledge enhances the relevance to the prompt scenarios and augment LLM generation. We demonstrate the effectiveness of the proposed framework on typical 
 trajectory planning task for complex interactive scenarios such as ramps and intersections, showcasing its advantages for RAG applications.
