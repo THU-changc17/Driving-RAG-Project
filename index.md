@@ -3,7 +3,7 @@ A driving scenario data framework, which contains **aligned embedding**, **effic
 
 ## Video
 <video controls style="width: 100%; height: auto;">
-    <source src="./RAG_Video_Website.mp4" type="video/mp4">
+    <source src="./RAG-Video-Website.mp4" type="video/mp4">
 </video>
 
 ## Abstract
